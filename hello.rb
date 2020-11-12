@@ -1,4 +1,4 @@
-class Util < Formula
+class Hello < Formula
   desc ""
   homepage ""
   url "https://github.com/zhangzhaonnx/util/archive/v1.0.1.tar.gz"
